@@ -1,0 +1,27 @@
+{
+  "name": "constructorwordguess",
+  "version": "1.0.0",
+  "description": "Word Guessing Game made in CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aale12/constructorWordGuess.git"
+  },
+  "author": "Anthony Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aale12/constructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/aale12/constructorWordGuess#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
